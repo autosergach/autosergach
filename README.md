@@ -16,6 +16,7 @@ I design systems that survive production — and use AI to build them faster. My
 
 ### Open Source
 
+- **[claude-md-templates](https://github.com/autosergach/claude-md-templates)** — Production-ready CLAUDE.md templates for React, NestJS, monorepos, and more
 - **[arch-cli](https://github.com/autosergach/arch-cli)** — CLI for scaffolding Clean Architecture projects with AI-ready configuration
 
 ### Showcase projects
