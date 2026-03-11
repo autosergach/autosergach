@@ -17,6 +17,8 @@ I design systems that survive production — and use AI to build them faster. My
 ### Open Source
 
 - **[claude-md-templates](https://github.com/autosergach/claude-md-templates)** — Production-ready CLAUDE.md templates for React, NestJS, monorepos, and more
+- **[nestjs-mcp-server](https://github.com/autosergach/nestjs-mcp-server)** — MCP server starter built with NestJS and Clean Architecture
+- **[claude-agent-starter](https://github.com/autosergach/claude-agent-starter)** — AI agent starter with Claude Agent SDK: subagents, hooks, sessions
 - **[arch-cli](https://github.com/autosergach/arch-cli)** — CLI for scaffolding Clean Architecture projects with AI-ready configuration
 
 ### Showcase projects
